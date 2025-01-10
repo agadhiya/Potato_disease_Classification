@@ -10,18 +10,20 @@ This project employs convolutional neural networks (CNNs) to classify potato lea
 ## About Dataset:
 The dataset used comprises images of potato leaves with various disease symptoms. These images have been collected from multiple sources and annotated by plant pathology experts.
 
-**1. Early Diseased Leaf Images:**
-![Early Diseased Leaf](https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_late_blight.jpg)
+<p align="left">
+<strong>1. Early Diseased Leaf Images:</strong><br>
+<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_late_blight.jpg" width="50%">
+</p>
 
-<br>
+<p align="left">
+<strong>2. Late Diseased Leaf Images:</strong><br>
+<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_early_blight.jpg" width="50%">
+</p>
 
-**2. Late Diseased Leaf Images:**
-![Late Diseased Leaf](https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_early_blight.jpg)
-
-<br>
-
-**3. Healthy Leaf Images:**
-![Healthy Leaf](https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_healthy.jpg)
+<p align="left">
+<strong>3. Healthy Leaf Images:</strong><br>
+<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_healthy.jpg" width="50%">
+</p>
 
 
 ## Image Preprocessing:
