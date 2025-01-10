@@ -12,17 +12,17 @@ The dataset used comprises images of potato leaves with various disease symptoms
 
 <p align="left">
 <strong>1. Early Diseased Leaf Images:</strong><br>
-<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_late_blight.jpg" width="300" height="200"">
+<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_late_blight.jpg" width="300" height="300">
 </p>
 
 <p align="left">
 <strong>2. Late Diseased Leaf Images:</strong><br>
-<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_early_blight.jpg" width="50%">
+<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_early_blight.jpg" width="300" height="300">
 </p>
 
 <p align="left">
 <strong>3. Healthy Leaf Images:</strong><br>
-<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_healthy.jpg" width="50%">
+<img src="https://github.com/agadhiya/Potato_disease_Classification/blob/main/potato_healthy.jpg" width="300" height="300">
 </p>
 
 
